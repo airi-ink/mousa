@@ -1,0 +1,32 @@
+{
+    "name": "mousa",
+    "description": "A Ghost theme intended for blog.airi.ink, and more.",
+    "demo": "https://demo.ghost.io",
+    "version": "0.2.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",    
+    "author": {
+        "name": "Gabiskandar",
+        "email": "gabiskandar@gmail.com",
+        "url": "https://airi.ink"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/airi-ink/mousa.git"
+    },
+    "bugs": "https://github.com/airi-ink/mousa/issues",
+    "contributors": "https://github.com/Gabiskandar"
+}
